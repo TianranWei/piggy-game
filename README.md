@@ -1,9 +1,8 @@
 ## piggy-game - An Anniversary gift for my girl
 
 
-## How to run the game
+### How to run the game(On Mac as example)
 
-##$ Set the python environment
 
 ##### 1. Download the python 3.7.0 and install it.
 

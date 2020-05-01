@@ -1,6 +1,10 @@
 ## piggy-game - An Anniversary gift for my girl
 
 
+
+![screenshot](screenshot.png)
+
+
 ### How to run the game(On Mac as example)
 
 
